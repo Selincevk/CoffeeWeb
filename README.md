@@ -6,8 +6,11 @@ Kahve severler Coffee Espresso sayfamıza hoşgeldiniz.
 <h1>Özellikler:</h1>
 
 • Müşteri Yorumları: Müşteri referansları ve yorumları, güven ve itibar oluşturmak için güçlü araçlardır. Coffee Espresso, ürün sayfalarınızda müşteri yorumlarını ve derecelendirmelerini belirgin bir şekilde görüntülemek için özellikler içerir ve dönüşümleri artırabilecek ve sadık bir müşteri tabanı oluşturabilecek sosyal kanıt sağlar.
+
 • İletişim Bölümü: Google Haritalar entegrasyonuna sahip kullanıcı dostu iletişim sayfaları, müşterilerin fiziksel mağazanızı bulmasını kolaylaştırır ve iletişim formu sayesinde genel müşteri deneyimini iyileştirir.
+
 • Menü Bölümü: Zengin ürün görüntüleme özellikleri arasında yüksek kaliteli görseller, ayrıntılı ürün açıklamaları,fiyat bilgisi içeren,gezinmesi kolay menü listesi barındırır.
+
 • Sosyal Medya Entegrasyonu : Sosyal medya entegrasyonu Coffee Espresso ile kolaylaştırılır ve mağazanızı çeşitli sosyal medya platformlarına zahmetsizce bağlamanıza olanak tanır.
 
 <h1>Demo:</h1>
