@@ -1,7 +1,7 @@
 <h1>Coffee Espresso ☕</h1>
 
 Kahve severler Coffee Espresso sayfamıza hoşgeldiniz.
-ürünlerimizi çekici bir şekilde sergilemeniz kolaylaşır.HTML5, CSS3 gibi modern web teknolojileriyle oluşturulan Coffee Espresso, Chrome, Firefox, Safari ve Edge dahil olmak üzere tüm büyük tarayıcılarda sorunsuz bir şekilde çalışan sağlam ve güvenilir bir web sitesi sağlar.Şık ve zarif bir tasarıma sahip olan Coffee Espresso, birinci sınıf kahve ürünlerini mükemmel bir şekilde sergileyerek tekliflerinizin kalitesini ve zenginliğini vurgular.
+ürünlerimizi çekici bir şekilde sergilemeniz kolaylaşır.HTML5, CSS3, JS gibi modern web teknolojileriyle oluşturulan Coffee Espresso, Chrome, Firefox, Safari ve Edge dahil olmak üzere tüm büyük tarayıcılarda sorunsuz bir şekilde çalışan sağlam ve güvenilir bir web sitesi sağlar.Şık ve zarif bir tasarıma sahip olan Coffee Espresso, birinci sınıf kahve ürünlerini mükemmel bir şekilde sergileyerek tekliflerinizin kalitesini ve zenginliğini vurgular.
 
 <h1>Özellikler:</h1>
 
@@ -12,3 +12,6 @@ Kahve severler Coffee Espresso sayfamıza hoşgeldiniz.
 
 <h1>Demo:</h1>
 ![](review.gif)
+
+<h1>iletişim:</h1>
+selincevk@gmail.com
