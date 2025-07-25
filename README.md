@@ -14,6 +14,7 @@ Kahve severler Coffee Espresso sayfamıza hoşgeldiniz.
 • Sosyal Medya Entegrasyonu : Sosyal medya entegrasyonu Coffee Espresso ile kolaylaştırılır ve mağazanızı çeşitli sosyal medya platformlarına zahmetsizce bağlamanıza olanak tanır.
 
 <h1>Demo:</h1>
+
 ![](/demo.gif)
 
 <h1>iletişim:</h1>
